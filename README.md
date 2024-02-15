@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @rgregory02 aka Becca
+- 👀 I’m interested in all things med tech and digital transformation
+- 🌱 I’m currently learning software dev
+- ⚡ Fun fact: 🙈
