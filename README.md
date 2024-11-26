@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @rgregory02 aka Becca
 - 👀 I’m interested in all things med tech and digital transformation
-- 🌱 I’m currently learning software dev
-- ⚡ Fun fact: 🙈
+- ⚡ Oncology doctor
+- 🙌🏻 Clinical Leadership Fellow with encompass (powered by Epic) - a digitial transformation initiative implementing a digital solution for health and social care records for the citizens of Northern Ireland
+- 🎓 Final Year MSc Software Development Queen's University Belfast
